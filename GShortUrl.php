@@ -1,3 +1,4 @@
+<?php
 /**
  * GShortUrl google short url creator simple Class
  * Usage :: //
